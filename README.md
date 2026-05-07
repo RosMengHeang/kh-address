@@ -330,19 +330,25 @@ interface Village {
 }
 ```
 
-## Data Source
+## Data Source and Ownership
 
-Address data is based on publicly available Cambodia administrative data from:
+This package includes a converted, developer-friendly JSON version of publicly available Cambodia administrative address data.
+
+The original data is attributed to:
 
 National Committee for Sub-National Democratic Development (NCDD)  
 https://db.ncdd.gov.kh/
 
-This package is not affiliated with or endorsed by NCDD.
+The maintainers of this package do not claim ownership of the original administrative address data. All original data remains the property of its respective source or rights holder. This package is not affiliated with, sponsored by, or endorsed by NCDD.
 
-## Disclaimer
+## Takedown or Data Requests
 
-All original data belongs to its respective source. This package only converts and provides the data in a developer-friendly JSON format.
+If you are an authorized representative of a data source or rights holder and believe that any data in this package should be corrected, attributed differently, removed, or deprecated from npm distribution, please contact the maintainers through the npm package page or the repository issue tracker.
+
+We will review good-faith requests and take appropriate action, which may include correcting attribution, removing affected data, or deprecating published versions where necessary.
 
 ## License
 
-MIT
+The software code in this package is licensed under the MIT License.
+
+The bundled administrative address data is third-party data. The MIT License applies to the package code and documentation authored by the package maintainers, but it does not grant ownership of or additional rights to third-party data.

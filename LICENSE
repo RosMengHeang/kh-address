@@ -1,13 +1,19 @@
+kh-address License
+
+Code License
+============
+
 MIT License
 
 Copyright (c) 2026 kh-address contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of the software code and associated documentation files authored by the
+kh-address contributors (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -19,3 +25,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Data Notice
+===========
+
+This package may include converted Cambodia administrative address data in
+data/cambodia.json or generated package files.
+
+The maintainers do not claim ownership of the original administrative address
+data. All original data remains the property of its respective source or rights
+holder. The MIT License above applies only to the software code and associated
+documentation authored by the kh-address contributors; it does not grant
+ownership of or additional rights to third-party data.
+
+The original data is attributed to:
+
+National Committee for Sub-National Democratic Development (NCDD)
+https://db.ncdd.gov.kh/
+
+This package is not affiliated with, sponsored by, or endorsed by NCDD.
+
+If you are an authorized representative of a data source or rights holder and
+believe that any bundled data should be corrected, attributed differently,
+removed, or deprecated from npm distribution, please contact the maintainers
+through the npm package page or the repository issue tracker. Good-faith
+requests will be reviewed and may result in corrected attribution, data
+removal, or deprecation of affected published versions where necessary.
