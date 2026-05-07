@@ -1,0 +1,7 @@
+node_modules/
+src/
+test/
+scripts/
+xls/
+tsconfig.json
+package-lock.json
